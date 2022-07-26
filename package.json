@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "moongose": "^1.0.0",
+    "dotenv": "^16.0.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  }
+}
